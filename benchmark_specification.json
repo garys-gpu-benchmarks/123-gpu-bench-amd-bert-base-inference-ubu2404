@@ -25,6 +25,11 @@
     "value": "gpu-bench-amd-bert-base-inference-ubu2404"
   },
   {
+    "field_name": "Repo Directory Name",
+    "source_file": "BenchmarkSpecDefinitions.xlsx::Workload_Definitions",
+    "value": "123-gpu-bench-amd-bert-base-inference-ubu2404"
+  },
+  {
     "field_name": "Main Goal",
     "source_file": "BenchmarkSpecDefinitions.xlsx::Workload_Definitions",
     "value": "Measure PyTorch BERT inference performance"
